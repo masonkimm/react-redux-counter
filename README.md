@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# REACT - REDUX
+
+Built with CREATE-REACT-APP and Redux
+
+## Deployed Link
+
+Link: (http://masonkimm.github.io/react-redux-counter)
+
+## Scripts
+
+```
+git clone git@github.com:masonkimm/react-redux-counter.git
+```
+
+```
+npm i
+```
+
+```
+npm run start
+```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
